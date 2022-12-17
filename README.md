@@ -4,7 +4,7 @@
 
 Data-driven decisions will be made through analysis of 'COVID-19 Vaccination Age and Sex Trends in the United States, National and Jurisdictional', which is a dataset updated by the Centers for Disease Control and Prevention by 16th December, 2022. (https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Age-and-Sex-Trends-in-the-Uni/5i5k-6cmh). 
 
-Throughout 2020-2022, Covid-19 rampaged rampantly, putting many people's lives and quality of life at risk. Our objective as data scientists is to help government officials reverse the situation with vaccination by using data to answer the following questions:
+Throughout 2020-2022, Covid-19 rampaged rampantly, putting many people's lives and quality of life at risk. We aim to use data to address the following questions in order to assist government officials in better allocating social resources and reversing the COVID-19 vaccination situation:
 
 1. Which state has the lowest/highest vaccination rate? 
 
@@ -19,6 +19,9 @@ Throughout 2020-2022, Covid-19 rampaged rampantly, putting many people's lives a
 6. How can we allocate resources based on the need for vaccination in different states? 
 
 7. Is there a positive correlation between the census and the number of people who actually completed the vaccination? 
+
+
+Based on the data analysis, we will apply the Ridge regression model to forecast how many vaccines are still needed and whether the current number of vaccinations is sufficient to control COVID-19.
 
 ##  Data Description
 
