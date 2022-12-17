@@ -1,16 +1,24 @@
 # U.S. Vaccination Analysis and Prediction
 
 # Problem Statement and Background
-This project aims to debunk the myth of vaccination by analyzing the dataset called 'COVID-19 Vaccination Age and Sex Trends in the United States, National and Jurisdictional', which offered by Centers for Disease Control and Prevention updated by 16th December, 2022 (https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Age-and-Sex-Trends-in-the-Uni/5i5k-6cmh). Since Covid-19 has been going rampantly throughout 2020-2022, many people's lives were threatened and their quality of life were put at risk. As responsible data scientists ourselves, our aim is help government officials to put the situation under control with vaccination, and by that - we hope to address the following questions using data:
 
-1. Which state has lowest/highest vaccination rate? 
+Data-driven decisions will be made through analysis of 'COVID-19 Vaccination Age and Sex Trends in the United States, National and Jurisdictional', which is a dataset updated by the Centers for Disease Control and Prevention by 16th December, 2022. (https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Age-and-Sex-Trends-in-the-Uni/5i5k-6cmh). 
+
+Throughout 2020-2022, Covid-19 rampaged rampantly, putting many people's lives and quality of life at risk. Our objective as data scientists is to help government officials reverse the situation with vaccination by using data to answer the following questions:
+
+1. Which state has the lowest/highest vaccination rate? 
+
 2. Which age group has the lowest/highest vaccination rate? If so, how can we better cater for the age group that has the lowest vaccination rate?
-3. What is the vaccination trend looking like for the next 3 months?
-4. Is there a high demand for booster doses throughout 2020-2022?
-5. In which period did the demand for vaccination (adminstered dose / boosters) seem to decline?
-6. How can we allocate resources based on the demand for the vaccination according to different states effectively? 
-7. Is there a positive coorelation based on the census and number of people who actually completed the vaccination? 
 
+3. What is the vaccination trend looking like for the next 3 months?
+
+4. Is there a high demand for booster doses throughout 2020-2022?
+
+5. In which period did the demand for vaccination (adminstered dose / boosters) seem to decline?
+
+6. How can we allocate resources based on the need for vaccination in different states? 
+
+7. Is there a positive correlation between the census and the number of people who actually completed the vaccination? 
 
 ##  Data Description
 
